@@ -14,6 +14,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details and contribute. ;)
 - [Slides](#slides)
 - [Courses](#courses)
 - [Books](#books)
+- [People](#people)
 - [Some Questions](#some-questions)
 
 ## Tutorials
